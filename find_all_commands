@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#find all files in all linux
+
+find / -type f | wc -l
