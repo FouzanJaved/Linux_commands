@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#although useraddddd is no command still this file will work and it will go to next line leaving error behind
+#This shows commas separator are used to make commands independent of each other. 
+
+mkdir new;  useradddddd ali; ls /
