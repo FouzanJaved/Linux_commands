@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+#append names of all files and folders in the etc folder
+
+ls -R /etc >> /OS2
+
+
+#count the files and append the output
+
+wc -l /OS2 >> /OS2
+
+cat /OS2
