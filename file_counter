@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# go to etc folder get all the files and then input in counter to count all files
+
+ls -R /etc | wc -l 
