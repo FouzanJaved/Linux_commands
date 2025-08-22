@@ -1,0 +1,4 @@
+#it will read all the files and folders and write the output in OS file
+ls -R / | wc -l > /OS
+
+cat /OS
