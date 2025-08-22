@@ -1,0 +1,1 @@
+find / -user fouzan -type f | wc -l
